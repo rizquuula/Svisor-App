@@ -7,7 +7,7 @@ title: Svisor
 
 Svisor is developed by **M Razif Rizqullah** under **Lyralabs**.
 
-[Get Svisor on Google Play](https://play.google.com/store/apps/details?id=com.lyralabs.svisor) · [Privacy Policy]({{ '/privacy/' | relative_url }})
+[Get Svisor on Google Play](https://play.google.com/store/apps/details?id=com.lyralabs.svisor) · [Privacy Policy]({{ '/privacy/' | relative_url }}) · [Terms of Service]({{ '/terms/' | relative_url }})
 
 ---
 
