@@ -45,4 +45,4 @@ For full details, read the [Privacy Policy]({{ '/privacy/' | relative_url }}).
 ## Contact
 
 **M Razif Rizqullah**, Lyralabs
-Email: [mrazifrizqullah@gmail.com](mailto:mrazifrizqullah@gmail.com)
+Email: [razifrizqullah@gmail.com](mailto:razifrizqullah@gmail.com)

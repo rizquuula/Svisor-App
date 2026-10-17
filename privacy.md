@@ -114,4 +114,4 @@ If you have any questions or concerns about this Privacy Policy, please contact:
 
 **M Razif Rizqullah**
 Lyralabs
-Email: [mrazifrizqullah@gmail.com](mailto:mrazifrizqullah@gmail.com)
+Email: [razifrizqullah@gmail.com](mailto:razifrizqullah@gmail.com)
