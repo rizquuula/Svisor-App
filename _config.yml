@@ -1,3 +1,5 @@
-title: Svisor Privacy Policy
-description: Privacy Policy for the Svisor mobile application
+title: Svisor
+description: Svisor is an Android app for drilling supervisors, by Lyralabs.
 theme: minima
+header_pages:
+  - privacy.md
